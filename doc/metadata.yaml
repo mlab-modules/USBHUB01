@@ -1,0 +1,16 @@
+description: null
+github_branch: USBHUB01A
+github_repo: USBHUB01
+github_url: https://github.com/mlab-modules/USBHUB01
+homepage: false
+images:
+- doc/img/USBHub-dps-gatema.jpg
+- doc/img/USBHUB_top_big.jpg
+- doc/img/noise_measurement.jpg
+- doc/img/USBHUB01A_bottom_big.jpg
+- doc/img/USBHUB01A_QRcode.png
+- doc/img/noise1.PNG
+- doc/img/noise2.PNG
+mark: 50
+tags: []
+title: USBHUB01
