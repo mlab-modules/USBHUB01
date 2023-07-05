@@ -12,5 +12,7 @@ images:
 - doc/img/noise1.PNG
 - doc/img/noise2.PNG
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: USBHUB01
