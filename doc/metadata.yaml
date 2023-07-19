@@ -1,4 +1,4 @@
-description: null
+description: Fourfold USB 3.0 HUB settings via I2C
 github_branch: USBHUB01A
 github_repo: USBHUB01
 github_url: https://github.com/mlab-modules/USBHUB01
@@ -15,4 +15,6 @@ mark: 50
 tags:
 - mlab
 - mlab-module
+- usb
+- usb-hub
 title: USBHUB01
