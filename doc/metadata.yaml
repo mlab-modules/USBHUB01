@@ -5,9 +5,9 @@ github_url: https://github.com/mlab-modules/USBHUB01
 homepage: false
 images:
 - doc/img/USBHUB_top_big.jpg
+- doc/img/noise_measurement.jpg
 - doc/img/USBHUB01A_bottom_big.jpg
 - doc/img/USBHub-dps-gatema.jpg
-- doc/img/noise_measurement.jpg
 - doc/img/USBHUB01A_QRcode.png
 - doc/img/noise1.PNG
 - doc/img/noise2.PNG
