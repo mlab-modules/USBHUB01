@@ -12,7 +12,7 @@ images:
 - doc/img/noise1.PNG
 - doc/img/noise2.PNG
 mark: 50
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module
