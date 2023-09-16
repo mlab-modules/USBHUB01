@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/USBHUB01
-summary: Fourfold USB 3.0 HUB settings via I2C
+summary: Four port USB 3.0 HUB configurable via I2C
